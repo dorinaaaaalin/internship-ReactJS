@@ -1,0 +1,22 @@
+.logo-container {
+	position: absolute;
+	top: 0;
+	left: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+h2 {
+	color: #fff;
+	margin-top: 45px;
+}
+
+form {
+	margin-top: 50px;
+}
+
+.container-fluid {
+	max-width: 340px;
+	margin: 0 auto;
+	position: relative;
+}
